@@ -63,7 +63,7 @@ All data comes from the CFTC directly. No third-party APIs, no scraping, no auth
 | Report | File prefix | Example |
 |---|---|---|
 | Legacy | `deahistfo` / `deacot` | `deahistfo{year}.zip` |
-| Supplemental | `fut_cit_txt` | `fut_cit_txt_{year}.zip` |
+| Supplemental | `dea_cit_txt` | `dea_cit_txt_{year}.zip` |
 | Disaggregated | `fut_disagg_txt` / `com_disagg_txt` | `fut_disagg_txt_{year}.zip` |
 | TFF | `fut_fin_txt` / `com_fin_txt` | `fut_fin_txt_{year}.zip` |
 
